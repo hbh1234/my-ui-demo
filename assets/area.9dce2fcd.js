@@ -1,0 +1,1 @@
+import{d as t,c as n,a as s,F as c,e as r,b as _,o as l}from"./index.6cd78656.js";const m=r("h1",null,"\u533A\u57DF\u9009\u62E9",-1),u={name:"area-page"},g=t({...u,setup(d){const a=e=>{console.log("datadatadata",e)};return(e,p)=>{const o=_("my-area");return l(),n(c,null,[m,s(o,{onChange:a})],64)}}});export{g as default};

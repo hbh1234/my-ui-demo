@@ -1,0 +1,1 @@
+import{d as l,r as n,k as r,u as s,i as u,b as m,o as p}from"./index.6cd78656.js";const d={name:"edior-page"},c=l({...d,setup(_){let e=n("<p>\u6D4B\u8BD5\u6570</p>");return(f,o)=>{const t=m("my-editor");return p(),r(t,{modelValue:s(e),"onUpdate:modelValue":o[0]||(o[0]=a=>u(e)?e.value=a:e=a)},null,8,["modelValue"])}}});export{c as default};
