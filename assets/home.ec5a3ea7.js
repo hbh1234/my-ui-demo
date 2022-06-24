@@ -1,0 +1,1 @@
+import{d as _,r as e,c,a as o,b as a,o as r}from"./index.cace5c5a.js";const s={class:"example-basic"},l={name:"icon-home"},u=_({...l,setup(i){return e(),e(),(m,p)=>{const n=a("el-icon-arrow-right-bold"),t=a("el-icon-avatar");return r(),c("div",s,[o(n),o(t)])}}});export{u as default};
